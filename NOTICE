@@ -1,0 +1,23 @@
+Templet C++ skeletons
+Copyright 2010-2015 Sergey Vostokin 
+
+sergey.vostokin@gmail.com
+
+The Templet blue square logo is a trademark of Samara State Aerospace University (www.ssau.ru)
+Rospatent registration number 504269
+
+This product includes code with the following Rospatent registration numbers:
+2007611206, 2007611201, 2010615139, 2014613169, 2014613431, 2014661813
+
+This product also includes parts of:
+
+Pthreads-win32 - POSIX Threads Library for Win32
+    Copyright(C) 1998 John E. Bossom
+    Copyright(C) 1999,2005 Pthreads-win32 contributors
+
+MPICH implementation of the Message Passing Interface (MPI) standard
+    Copyright(C) 2001 by Argonne National Laboratory.
+
+
+
+
